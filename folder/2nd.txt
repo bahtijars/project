@@ -1,2 +1,3 @@
 #!/bin/bash 
 echo "isi dengan ini'
+this comes from bahtiyur to commit
